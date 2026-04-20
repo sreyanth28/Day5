@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\bin\Debug\net10.0\Csharp7&8Features.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\bin\Debug\net10.0\Csharp7&8Features.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\bin\Debug\net10.0\Csharp7&8Features.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\bin\Debug\net10.0\Csharp7&8Features.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\bin\Debug\net10.0\Csharp7&8Features.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\refint\Csharp7&8Features.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\Csharp7&8Features.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Csharp7&8Features\obj\Debug\net10.0\ref\Csharp7&8Features.dll

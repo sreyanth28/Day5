@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\bin\Debug\net10.0\Userdefined.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\bin\Debug\net10.0\Userdefined.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\bin\Debug\net10.0\Userdefined.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\bin\Debug\net10.0\Userdefined.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\bin\Debug\net10.0\Userdefined.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\refint\Userdefined.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\Userdefined.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Userdefined\obj\Debug\net10.0\ref\Userdefined.dll

@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\bin\Debug\net10.0\try.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\bin\Debug\net10.0\try.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\bin\Debug\net10.0\try.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\bin\Debug\net10.0\try.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\bin\Debug\net10.0\try.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\refint\try.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\try.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\try\obj\Debug\net10.0\ref\try.dll

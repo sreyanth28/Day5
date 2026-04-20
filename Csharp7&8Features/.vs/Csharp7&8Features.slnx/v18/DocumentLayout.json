@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day5\\Csharp7\u00268Features\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA23C575-A0F6-471B-9E56-E9EDA3AA2B12}|Csharp7\u00268Features.csproj|c:\\users\\sreya\\desktop\\wipronfsd\\day5\\csharp7\u00268features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA23C575-A0F6-471B-9E56-E9EDA3AA2B12}|Csharp7\u00268Features.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day5\\Csharp7\u00268Features\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day5\\Csharp7\u00268Features\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:11:05.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
