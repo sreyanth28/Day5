@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\bin\Debug\net10.0\Bank.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\bin\Debug\net10.0\Bank.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\bin\Debug\net10.0\Bank.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\bin\Debug\net10.0\Bank.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\bin\Debug\net10.0\Bank.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\refint\Bank.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\Bank.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day5\Bank\obj\Debug\net10.0\ref\Bank.dll
